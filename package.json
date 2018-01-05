@@ -1,0 +1,9 @@
+{
+  "name": "shm-skeleton",
+  "version": "0.0.1",
+  "description": "Skeleton for web development and Node projects.",
+  "main": "index.js",
+  "repository": "https://github.com/shmcgrath/shm-skeleton",
+  "author": "Sarah H. McGrath <sarah@shmcgrath.com>",
+  "license": "MIT"
+}
